@@ -1,0 +1,52 @@
+[
+  {
+    "method": "01_fixed_size",
+    "file": "outputs\\01_fixed_size\\output.json",
+    "items_or_keys": 3
+  },
+  {
+    "method": "02_recursive",
+    "file": "outputs\\02_recursive\\output.json",
+    "items_or_keys": 3
+  },
+  {
+    "method": "03_sentence",
+    "file": "outputs\\03_sentence\\output.json",
+    "items_or_keys": 3
+  },
+  {
+    "method": "04_semantic",
+    "file": "outputs\\04_semantic\\output.json",
+    "items_or_keys": 9
+  },
+  {
+    "method": "05_markdown",
+    "file": "outputs\\05_markdown\\output.json",
+    "items_or_keys": 5
+  },
+  {
+    "method": "06_page",
+    "file": "outputs\\06_page\\output.json",
+    "items_or_keys": 4
+  },
+  {
+    "method": "07_elements",
+    "file": "outputs\\07_elements\\output.json",
+    "items_or_keys": 22
+  },
+  {
+    "method": "08_parent_child",
+    "file": "outputs\\08_parent_child\\children.json",
+    "items_or_keys": 5
+  },
+  {
+    "method": "08_parent_child",
+    "file": "outputs\\08_parent_child\\parents.json",
+    "items_or_keys": 4
+  },
+  {
+    "method": "09_multimodal",
+    "file": "outputs\\09_multimodal\\images.json",
+    "items_or_keys": 1
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "type": "image",
+    "page": 3,
+    "image_path": "outputs\\09_multimodal\\images\\page_3_image_0.png",
+    "vision_description": null,
+    "note": "Pass this image to a vision model and store its description/caption here."
+  }
+]

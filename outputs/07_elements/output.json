@@ -1,0 +1,257 @@
+[
+  {
+    "element_id": "page_1_text_0",
+    "type": "text",
+    "page": 1,
+    "bbox": {
+      "x0": 171.6,
+      "y0": 49.74,
+      "x1": 423.67,
+      "y1": 74.53
+    },
+    "text": "Annual Financial Report 2025"
+  },
+  {
+    "element_id": "page_1_text_1",
+    "type": "text",
+    "page": 1,
+    "bbox": {
+      "x0": 51.0,
+      "y0": 102.02,
+      "x1": 180.93,
+      "y1": 121.3
+    },
+    "text": "Company Overview"
+  },
+  {
+    "element_id": "page_1_text_2",
+    "type": "text",
+    "page": 1,
+    "bbox": {
+      "x0": 51.0,
+      "y0": 126.25,
+      "x1": 530.65,
+      "y1": 151.99
+    },
+    "text": "Acme Technologies is a software company operating across the United Kingdom, Germany, France, and the\nUnited States."
+  },
+  {
+    "element_id": "page_1_text_3",
+    "type": "text",
+    "page": 1,
+    "bbox": {
+      "x0": 51.0,
+      "y0": 156.25,
+      "x1": 501.17,
+      "y1": 169.99
+    },
+    "text": "The company provides cloud infrastructure and artificial intelligence solutions to enterprise customers."
+  },
+  {
+    "element_id": "page_2_text_0",
+    "type": "text",
+    "page": 2,
+    "bbox": {
+      "x0": 51.0,
+      "y0": 50.02,
+      "x1": 201.16,
+      "y1": 69.3
+    },
+    "text": "Financial Performance"
+  },
+  {
+    "element_id": "page_2_text_1",
+    "type": "text",
+    "page": 2,
+    "bbox": {
+      "x0": 51.0,
+      "y0": 74.25,
+      "x1": 544.28,
+      "y1": 99.99
+    },
+    "text": "The company generated £5.2 billion in revenue during 2025. This represents an increase of 18% compared with\n2024."
+  },
+  {
+    "element_id": "page_2_text_2",
+    "type": "text",
+    "page": 2,
+    "bbox": {
+      "x0": 51.0,
+      "y0": 104.25,
+      "x1": 380.6,
+      "y1": 117.99
+    },
+    "text": "Operating profit increased from £800 million in 2024 to £1.1 billion in 2025."
+  },
+  {
+    "element_id": "page_2_text_3",
+    "type": "text",
+    "page": 2,
+    "bbox": {
+      "x0": 51.0,
+      "y0": 146.02,
+      "x1": 180.92,
+      "y1": 165.3
+    },
+    "text": "Revenue by Region"
+  },
+  {
+    "element_id": "page_2_text_4",
+    "type": "text",
+    "page": 2,
+    "bbox": {
+      "x0": 130.84,
+      "y0": 173.3,
+      "x1": 439.44,
+      "y1": 187.07
+    },
+    "text": "Region\n2024 Revenue\n2025 Revenue\nGrowth"
+  },
+  {
+    "element_id": "page_2_text_5",
+    "type": "text",
+    "page": 2,
+    "bbox": {
+      "x0": 130.84,
+      "y0": 191.25,
+      "x1": 464.44,
+      "y1": 204.99
+    },
+    "text": "UK\n£1.0B\n£1.2B\n20%"
+  },
+  {
+    "element_id": "page_2_text_6",
+    "type": "text",
+    "page": 2,
+    "bbox": {
+      "x0": 130.84,
+      "y0": 209.25,
+      "x1": 464.44,
+      "y1": 222.99
+    },
+    "text": "Germany\n£1.4B\n£1.8B\n29%"
+  },
+  {
+    "element_id": "page_2_text_7",
+    "type": "text",
+    "page": 2,
+    "bbox": {
+      "x0": 130.84,
+      "y0": 227.25,
+      "x1": 464.44,
+      "y1": 240.99
+    },
+    "text": "France\n£0.9B\n£1.0B\n11%"
+  },
+  {
+    "element_id": "page_2_text_8",
+    "type": "text",
+    "page": 2,
+    "bbox": {
+      "x0": 130.84,
+      "y0": 245.25,
+      "x1": 464.44,
+      "y1": 258.99
+    },
+    "text": "USA\n£1.1B\n£1.2B\n9%"
+  },
+  {
+    "element_id": "page_2_text_9",
+    "type": "text",
+    "page": 2,
+    "bbox": {
+      "x0": 51.0,
+      "y0": 266.25,
+      "x1": 410.57,
+      "y1": 279.99
+    },
+    "text": "Germany was the fastest-growing major market, with revenue increasing by 29%."
+  },
+  {
+    "element_id": "page_2_drawings",
+    "type": "drawing",
+    "page": 2,
+    "count": 12
+  },
+  {
+    "element_id": "page_3_text_0",
+    "type": "text",
+    "page": 3,
+    "bbox": {
+      "x0": 51.0,
+      "y0": 50.02,
+      "x1": 212.81,
+      "y1": 69.3
+    },
+    "text": "Regional Revenue Chart"
+  },
+  {
+    "element_id": "page_3_text_1",
+    "type": "text",
+    "page": 3,
+    "bbox": {
+      "x0": 51.0,
+      "y0": 332.25,
+      "x1": 540.7,
+      "y1": 357.99
+    },
+    "text": "The chart shows Germany with the highest 2025 revenue at £1.8B, followed by the UK and USA at £1.2B each\nand France at £1.0B."
+  },
+  {
+    "element_id": "page_3_image_0",
+    "type": "image",
+    "page": 3,
+    "xref": 6,
+    "width": 1050,
+    "height": 600,
+    "extension": "png"
+  },
+  {
+    "element_id": "page_4_text_0",
+    "type": "text",
+    "page": 4,
+    "bbox": {
+      "x0": 51.0,
+      "y0": 50.02,
+      "x1": 151.34,
+      "y1": 69.3
+    },
+    "text": "Future Outlook"
+  },
+  {
+    "element_id": "page_4_text_1",
+    "type": "text",
+    "page": 4,
+    "bbox": {
+      "x0": 51.0,
+      "y0": 74.25,
+      "x1": 333.37,
+      "y1": 87.99
+    },
+    "text": "Management expects revenue to continue growing during 2026."
+  },
+  {
+    "element_id": "page_4_text_2",
+    "type": "text",
+    "page": 4,
+    "bbox": {
+      "x0": 51.0,
+      "y0": 92.25,
+      "x1": 401.14,
+      "y1": 105.99
+    },
+    "text": "Growth is expected to be strongest in European markets, particularly Germany."
+  },
+  {
+    "element_id": "page_4_text_3",
+    "type": "text",
+    "page": 4,
+    "bbox": {
+      "x0": 51.0,
+      "y0": 110.25,
+      "x1": 451.16,
+      "y1": 123.99
+    },
+    "text": "The company plans to increase investment in artificial intelligence and cloud infrastructure."
+  }
+]

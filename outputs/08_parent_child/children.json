@@ -1,0 +1,32 @@
+[
+  {
+    "child_id": "page_1_0",
+    "parent_id": "page_1",
+    "page": 1,
+    "text": "Annual Financial Report 2025\nCompany Overview\nAcme Technologies is a software company operating across the United Kingdom, Germany, France, and the\nUnited States.\nThe company provides cloud infrastructure and artificial intelligence solutions to enterprise customers."
+  },
+  {
+    "child_id": "page_2_0",
+    "parent_id": "page_2",
+    "page": 2,
+    "text": "Financial Performance\nThe company generated £5.2 billion in revenue during 2025. This represents an increase of 18% compared with\n2024.\nOperating profit increased from £800 million in 2024 to £1.1 billion in 2025.\nRevenue by Region\nRegion\n2024 Revenue\n2025 Revenue\nGrowth\nUK\n£1.0B\n£1.2B\n20%\nGermany"
+  },
+  {
+    "child_id": "page_2_1",
+    "parent_id": "page_2",
+    "page": 2,
+    "text": "2025 Revenue\nGrowth\nUK\n£1.0B\n£1.2B\n20%\nGermany\n£1.4B\n£1.8B\n29%\nFrance\n£0.9B\n£1.0B\n11%\nUSA\n£1.1B\n£1.2B\n9%\nGermany was the fastest-growing major market, with revenue increasing by 29%."
+  },
+  {
+    "child_id": "page_3_0",
+    "parent_id": "page_3",
+    "page": 3,
+    "text": "Regional Revenue Chart\nThe chart shows Germany with the highest 2025 revenue at £1.8B, followed by the UK and USA at £1.2B each\nand France at £1.0B."
+  },
+  {
+    "child_id": "page_4_0",
+    "parent_id": "page_4",
+    "page": 4,
+    "text": "Future Outlook\nManagement expects revenue to continue growing during 2026.\nGrowth is expected to be strongest in European markets, particularly Germany.\nThe company plans to increase investment in artificial intelligence and cloud infrastructure."
+  }
+]

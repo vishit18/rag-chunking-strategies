@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_id": 0,
+    "text": "# Annual Financial Report 2025  \n## Company Overview  \nAcme Technologies is a software company operating across the United Kingdom, Germany, France, and the United States.  \nThe company provides cloud infrastructure and artificial intelligence solutions to enterprise customers.",
+    "metadata": {
+      "title": "Annual Financial Report 2025",
+      "section": "Company Overview"
+    }
+  },
+  {
+    "chunk_id": 1,
+    "text": "## Financial Performance  \nThe company generated £5.2 billion in revenue during 2025. This represents an increase of 18% compared with 2024.  \nOperating profit increased from £800 million in 2024 to £1.1 billion in 2025.",
+    "metadata": {
+      "title": "Annual Financial Report 2025",
+      "section": "Financial Performance"
+    }
+  },
+  {
+    "chunk_id": 2,
+    "text": "## Revenue by Region  \n| Region | 2024 Revenue | 2025 Revenue | Growth |\n|---|---:|---:|---:|\n| UK | £1.0B | £1.2B | 20% |\n| Germany | £1.4B | £1.8B | 29% |\n| France | £0.9B | £1.0B | 11% |\n| USA | £1.1B | £1.2B | 9% |  \nGermany was the fastest-growing major market, with revenue increasing by 29%.",
+    "metadata": {
+      "title": "Annual Financial Report 2025",
+      "section": "Revenue by Region"
+    }
+  },
+  {
+    "chunk_id": 3,
+    "text": "## Regional Revenue Chart  \n[IMAGE: Bar chart showing 2025 revenue by region. Germany has the highest revenue at £1.8B, followed by the UK and USA at £1.2B each, and France at £1.0B.]",
+    "metadata": {
+      "title": "Annual Financial Report 2025",
+      "section": "Regional Revenue Chart"
+    }
+  },
+  {
+    "chunk_id": 4,
+    "text": "## Future Outlook  \nManagement expects revenue to continue growing during 2026.  \nGrowth is expected to be strongest in European markets, particularly Germany.  \nThe company plans to increase investment in artificial intelligence and cloud infrastructure.",
+    "metadata": {
+      "title": "Annual Financial Report 2025",
+      "section": "Future Outlook"
+    }
+  }
+]
